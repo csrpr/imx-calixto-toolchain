@@ -1,1 +1,1 @@
-# imx-calixto-toolchain
+# calixto-nxp-toolchain
